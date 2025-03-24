@@ -1,0 +1,10 @@
+[package]
+name = "smol-ulid"
+version = "0.1.0"
+edition = "2024"
+license = "ISC"
+description = "Small Ulid stored in a u64"
+homepage = "https://github.com/MNThomson/smol-ulid"
+
+[dependencies]
+rand = "0.9"
